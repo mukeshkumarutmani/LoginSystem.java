@@ -10,7 +10,7 @@ public class LoginSystem {
         String validPassword = "mypassword";
         
         // Prompt user for credentials
-        System.out.print("Enter your username: ");
+        System.out.print(" Enter your username: ");
         username = scanner.next();
         System.out.print("Enter your password: ");
         password = scanner.next();
