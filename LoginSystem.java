@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LoginSystem {
+public class LoginSystem  {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String username, password;
