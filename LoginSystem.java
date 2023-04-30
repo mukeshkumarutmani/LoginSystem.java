@@ -12,7 +12,7 @@ public class LoginSystem {
         // Prompt user for credentials
         System.out.print(" Enter your username: ");
         username = scanner.next();
-        System.out.print("Enter your password: ");
+        System.out.print(" Enter your password: ");
         password = scanner.next();
         
         // Check credentials
